@@ -17,6 +17,7 @@ This is basic div template. Made for a homework assignment.
 Visit:
 
 With CSS & BOOTSTRAP :  https://ozgurseng.github.io/basic_div_template
+
 Without CSS : https://ozgurseng.github.io/basic_div_template/index_without_css.html
 
 ## Usage <a name = "usage"></a>
